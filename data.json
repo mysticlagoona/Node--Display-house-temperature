@@ -1,0 +1,88 @@
+ { "house1" : [
+        {
+            "name":"Study Area",
+            "temperature": 23.8,
+            "humidity": 0.5
+        },
+        {
+            "name":"Hallway",
+            "temperature": 21.7,
+            "humidity": 0.85
+        },
+        {
+            "name":"Master Bedroom",
+            "temperature": 26.7,
+            "humidity": 5.5
+        },
+        {
+            "name":"Child Bedroom",
+            "temperature": 26.9,
+            "humidity": 2.45
+        },
+        {
+            "name":"Bathroom",
+            "temperature": 28.0,
+            "humidity": 95.0
+        },
+        {
+            "name":"Kitchen",
+            "temperature": 30.0,
+            "humidity": 40.0
+        }
+    ],
+    "house2" : [
+        {
+            "name":"Livingroom",
+            "temperature": 23.0,
+            "humidity": 0.5
+        },
+        {
+            "name":"Master Bedroom",
+            "temperature": 26.0,
+            "humidity": 5.5
+        },
+        {
+            "name":"Bathroom",
+            "temperature": 28.7,
+            "humidity": 95.9
+        },
+        {
+            "name":"Kitchen",
+            "temperature": 30.0,
+            "humidity": 48.9
+        }
+    ],
+    "house3" : [
+        {
+            "name":"Gameroom",
+            "temperature": 23.0,
+            "humidity": 0.55
+        },
+        {
+            "name":"Hallway",
+            "temperature": 21.0,
+            "humidity": 85.09
+        },
+        {
+            "name":"Master Bedroom",
+            "temperature": 26.09,
+            "humidity": 5.56
+        },
+        {
+            "name":"Storeroom",
+            "temperature": 26.0,
+            "humidity": 2.45
+        },
+        {
+            "name":"Studyroom",
+            "temperature": 28.0,
+            "humidity": 95.0
+        },
+        {
+            "name":"Kitchen",
+            "temperature": 30.0,
+            "humidity": 40.0
+        }
+    ]
+ 
+}
